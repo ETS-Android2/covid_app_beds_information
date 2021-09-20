@@ -12,17 +12,28 @@ error handling for data integrity.
 # future work to do
 Make app better in terns of UI and realworld use
 
-# SignUp page
-![HKHKH](images/a1.JPEG)
-# Email with Password
-![HKHKH](images/2.PNG)
-# Login Page
-![HKHKH](images/3.PNG)
-# view all task
-![HKHKH](images/4.PNG)
-# Create New task
-![HKHKH](images/5.PNG)
-# All Tasks
-![HKHKH](images/6.PNG)
-# Deleting Task
-![HKHKH](images/7.PNG)
+# splash animation 
+<img src="images/a1.jpg" width="400" height="790">
+# Login Window 
+<img src="images/a2.jpg" width="400" height="790">
+# Signup Page
+<img src="images/a3.jpg" width="400" height="790">
+# Reset Password
+<img src="images/a4.jpg" width="400" height="790">
+# Reset Password mail received
+<img src="images/a5.jpg" width="400" height="790">
+# Location Permission allowed
+<img src="images/a6.jpg" width="400" height="790">
+# Active Covid 19 cases in his city
+<img src="images/a7.jpg" width="400" height="790">
+# register window
+<img src="images/a8.jpg" width="400" height="790">
+<img src="images/a9.jpg" width="400" height="790">
+<img src="images/a10.jpg" width="400" height="790">
+<img src="images/a11.jpg" width="400" height="790">
+<img src="images/a12.jpg" width="400" height="790">
+<img src="images/a13.jpg" width="400" height="790">
+<img src="images/a14.jpg" width="400" height="790">
+<img src="images/a15.jpg" width="400" height="790">
+
+
