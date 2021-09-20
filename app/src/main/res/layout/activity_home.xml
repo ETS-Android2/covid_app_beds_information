@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+
+    <Button
+        android:id="@+id/btnHomeHospitalRegistration"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Hospital Registration" />
+
+    <Button
+        android:id="@+id/btnHomeHospitalUpdation"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Hospital Updation" />
+
+    <Button
+        android:id="@+id/btnHomeBeds"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Patient Corner" />
+
+    <TextView
+        android:id="@+id/tvHomeCity"
+        android:layout_marginTop="500dp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:textColor="#ff0000"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+</LinearLayout>

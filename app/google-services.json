@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905193491882",
+    "firebase_url": "https://covid-31d88-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "covid-31d88",
+    "storage_bucket": "covid-31d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905193491882:android:ba01437d37c63885882fd3",
+        "android_client_info": {
+          "package_name": "com.example.covid_beds_information_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905193491882-n0d6uofuptdsmdpfv6040se6rj45r72d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwVPN-Ei-NRrAev20LO1HHDF-jondDPOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905193491882-n0d6uofuptdsmdpfv6040se6rj45r72d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
